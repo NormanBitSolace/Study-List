@@ -1,4 +1,4 @@
-# Study-List
+# Study List
 
 ### TODO
 
