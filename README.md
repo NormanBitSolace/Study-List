@@ -13,3 +13,11 @@
 > Excellent look at how and why to implement data binding with Swift and reasons to consider an Rx solution.
 * [How not to get desperate with MVVM implementation by S.T.Huang](https://medium.com/flawless-app-stories/how-to-use-a-model-view-viewmodel-architecture-for-ios-46963c67be1b)
 > Very interesting. Talks about MVVM providing a cleaner architecture.
+* [Method Dispatch in Swift by Brian King](https://www.raizlabs.com/dev/2016/12/swift-method-dispatch/)
+> Excellent deep dive into how Swift types virtual tables work. Read several times and still need to read again.
+* WWDC 2016 [Understanding Swift Performance](https://developer.apple.com/videos/play/wwdc2016/416/)
+> This is the best discussion on Swift dispatch I've come across. Watch multiple times, new things to learn each time. I haven't figured out how to incorate knowledge about Existential Containers, Protocol Witness Tables, or Value Witness Tables but this video sure gives an appreciation for the deep thought behind Swift's implementation.
+* Dave Abraham's [Protocol-Oriented Programming in Swift](https://developer.apple.com/videos/play/wwdc2015/408/)
+> The best Swift goody ever. A new way of thinking. Changed the way I see Swift and coding. Crusty!
+* [Embracing Algorithms](https://developer.apple.com/videos/play/wwdc2018/223/)
+> Dave Abrahams, Swift Standard Library lead, talks about the power of being able to extend protocols. He demonstrates how this new feature (at the time) significantly reduced comlexity, clutter, auto generated code, etc.
