@@ -8,16 +8,24 @@
 
 ### March 2019
 
+**[Super-powered string interpolation in Swift 5.0 by Paul Hudson](https://www.hackingwithswift.com/articles/178/super-powered-string-interpolation-in-swift-5-0)**
+
+Interesting look at Swift 5's string interpolation that includes lots of examples.
+***
 **[Swift Talk - String Interpolation](https://talk.objc.io/episodes/S01E144-string-interpolation-in-swift-5-part-2)**
+
 The string interpolation lesson was presented in the context of a project they're working on and it got lost in the projects details rather than the intended message.
 ***
 **[Solving the binding problem with Swift by Srđan Rašić](http://five.agency/solving-the-binding-problem-with-swift/)**
+
 Excellent look at how and why to implement data binding with Swift and reasons to consider an Rx solution.
 ***
 **[How not to get desperate with MVVM implementation by S.T.Huang](https://medium.com/flawless-app-stories/how-to-use-a-model-view-viewmodel-architecture-for-ios-46963c67be1b)**
+
 Very interesting. Talks about MVVM providing a cleaner architecture.
 ***
 **[Method Dispatch in Swift by Brian King](https://www.raizlabs.com/dev/2016/12/swift-method-dispatch/)**
+
 Excellent deep dive into how Swift types virtual tables work. Read several times and still need to read again.
 ***
 **WWDC 2016 [Understanding Swift Performance](https://developer.apple.com/videos/play/wwdc2016/416/)**
