@@ -5,10 +5,12 @@
 * [Clean Swift](https://hackernoon.com/introducing-clean-swift-architecture-vip-770a639ad7bf)
 * Rewatch [Swift Talk 13 - Architecting iOS Apps with VIPER](https://www.objc.io/issues/13-architecture/viper)
 * [MVVM+FlowController](http://merowing.info/2016/01/improve-your-ios-architecture-with-flowcontrollers)
-* [Swift Talk - String Interpolation](https://talk.objc.io/episodes/S01E144-string-interpolation-in-swift-5-part-2)
 
 ### March 2019
 
+**[Swift Talk - String Interpolation](https://talk.objc.io/episodes/S01E144-string-interpolation-in-swift-5-part-2)**
+The string interpolation lesson was presented in the context of a project they're working on and it got lost in the projects details rather than the intended message.
+***
 **[Solving the binding problem with Swift by Srđan Rašić](http://five.agency/solving-the-binding-problem-with-swift/)**
 Excellent look at how and why to implement data binding with Swift and reasons to consider an Rx solution.
 ***
