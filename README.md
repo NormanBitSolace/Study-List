@@ -6,6 +6,13 @@
 * Rewatch [Swift Talk 13 - Architecting iOS Apps with VIPER](https://www.objc.io/issues/13-architecture/viper)
 * [MVVM+FlowController](http://merowing.info/2016/01/improve-your-ios-architecture-with-flowcontrollers)
 
+### April 2019
+
+**[Source Control Workflows in Xcode](https://developer.apple.com/videos/play/wwdc2018/418/)**
+
+Rudimentary overview of source control in Xcode.
+
+
 ### March 2019
 
 **[Super-powered string interpolation in Swift 5.0 by Paul Hudson](https://www.hackingwithswift.com/articles/178/super-powered-string-interpolation-in-swift-5-0)**
