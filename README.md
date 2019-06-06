@@ -2,7 +2,7 @@
 
 ### June 2019
 
-[WWDC sessions](master#wwdc-2019)
+[WWDC sessions](/master#wwdc-2019)
 
 ### May 2019
 
