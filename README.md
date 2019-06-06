@@ -1,29 +1,8 @@
-# Study List
+# Study List History
 
-### WWDC 2019
+### June 2019
 
-**[Keynote](https://developer.apple.com/videos/play/wwdc2019/101)**
-
-Started off boring then BAM! SwiftUI is announced in the final minutes. Tim Cook is off key, sounds more like a product launch that a developer conference. Where's Phil?
-
-**[Platforms State of the Union](https://developer.apple.com/videos/play/wwdc2019/103)**
-
-The first two sections are interesting, the third not so much. Lots of fun new stuff.
-
-
-**[What's New in Swift](https://developer.apple.com/videos/play/wwdc2019/402)**
-
-Really interesting. It highlights the foresite and skill Apple has driven their course towards it's latest technologies. So many of the new API play an intregal part of SwiftUI.
-
-
-**[Introducing SwiftUI: Building Your First App](https://developer.apple.com/videos/play/wwdc2019/204)**
-
-Wow, we're watching our future. Facinating. Bummed it only available for iOS 13 and beyond. View composition is explored.
-
-**[Advances in UI Data Sources](https://developer.apple.com/videos/play/wwdc2019/220)**
-
-Another interesting session discussing data binding and a single source of truth for models. Includes discussion on new table and collection view data API and how they use a diff of model and the current state to brodcast data changes.
-
+[WWDC sessions](https://github.com/NormanBitSolace/Study-List/new/master#wwdc-2019)
 
 ### May 2019
 
