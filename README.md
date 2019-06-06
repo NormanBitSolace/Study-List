@@ -2,7 +2,7 @@
 
 ### June 2019
 
-[WWDC sessions](/master#wwdc-2019)
+[WWDC sessions](https://github.com/NormanBitSolace/Study-List/blob/master/WWDC%202019.md)
 
 ### May 2019
 
