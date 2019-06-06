@@ -1,10 +1,41 @@
 # Study List
 
-### TODO
+### WWDC 2019
 
-* [Clean Swift](https://hackernoon.com/introducing-clean-swift-architecture-vip-770a639ad7bf)
-* Rewatch [Swift Talk 13 - Architecting iOS Apps with VIPER](https://www.objc.io/issues/13-architecture/viper)
-* [MVVM+FlowController](http://merowing.info/2016/01/improve-your-ios-architecture-with-flowcontrollers)
+**[Keynote](https://developer.apple.com/videos/play/wwdc2019/101)**
+
+Started off boring then BAM! SwiftUI is announced in the final minutes. Tim Cook is off key, sounds more like a product launch that a developer conference. Where's Phil?
+
+**[Platforms State of the Union](https://developer.apple.com/videos/play/wwdc2019/103)**
+
+The first two sections are interesting, the third not so much. Lots of fun new stuff.
+
+
+**[What's New in Swift](https://developer.apple.com/videos/play/wwdc2019/402)**
+
+Really interesting. It highlights the foresite and skill Apple has driven their course towards it's latest technologies. So many of the new API play an intregal part of SwiftUI.
+
+
+**[Introducing SwiftUI: Building Your First App](https://developer.apple.com/videos/play/wwdc2019/204)**
+
+Wow, we're watching our future. Facinating. Bummed it only available for iOS 13 and beyond. View composition is explored.
+
+**[Advances in UI Data Sources](https://developer.apple.com/videos/play/wwdc2019/220)**
+
+Another interesting session discussing data binding and a single source of truth for models. Includes discussion on new table and collection view data API and how they use a diff of model and the current state to brodcast data changes.
+
+
+### May 2019
+
+#### Coordinators
+
+1. **[MVVM+FlowController](http://merowing.info/2016/01/improve-your-ios-architecture-with-flowcontrollers)**
+1. **[Navigation in Swift](https://www.swiftbysundell.com/posts/navigation-in-swift?rq=coordinator)**
+1. **[How to use the coordinator pattern](https://www.hackingwithswift.com/articles/71/how-to-use-the-coordinator-pattern-in-ios-apps)**
+1. **[Advanced coordinators in iOS](https://www.hackingwithswift.com/articles/175/advanced-coordinator-pattern-tutorial-ios)**
+1. **[Coordinators Redux](http://khanlou.com/2015/10/coordinators-redux/)**
+
+Interesting examinations of the benefits of using an app coordinator to handle navigation flow and thus lesson what view controllers are responsible for. Soroush's article was years before the others and I suspect impacted the adoption of coordinators. After reading his article years ago I recall contacting him with questions and his response being quite friendly.
 
 ### April 2019
 
