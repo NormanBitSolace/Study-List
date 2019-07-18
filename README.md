@@ -1,5 +1,11 @@
 # Study List History
 
+### July 2019
+
+[NSHipster CAEmitterLayer](https://nshipster.com/caemitterlayer/) interersting discussion that delves into details that are hard to find.
+
+[NSHipster Formatter](https://nshipster.com/formatter/) Matt is interesting as usual, and here he shares some undocumented features coming in iOS 13 e.g. relative date formatting.
+
 ### June 2019
 
 [WWDC sessions](https://github.com/NormanBitSolace/Study-List/blob/master/WWDC%202019.md)
