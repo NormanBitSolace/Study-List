@@ -1,5 +1,11 @@
 # Study List History
 
+### November 2019
+
+[SwiftUI](https://www.raywenderlich.com/4001741-swiftui) A very well put together and informative video course (3 hrs, 58 mins). A deep dive into getting started with SwiftUI.
+
+[Data Flow Through SwiftUI](https://developer.apple.com/videos/play/wwdc2019/226/)
+
 ### July 2019
 
 [NSHipster CAEmitterLayer](https://nshipster.com/caemitterlayer/) interersting discussion that delves into details that are hard to find.
